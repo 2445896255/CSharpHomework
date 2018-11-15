@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfOrderDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OrderDetails>
+    <orderNumber>20181005001</orderNumber>
+    <Name>John</Name>
+    <goodsName>Apple</goodsName>
+    <Price>2.5</Price>
+    <goodsNumber>3</goodsNumber>
+    <phone>13012376988</phone>
+  </OrderDetails>
+  <OrderDetails>
+    <orderNumber>20181005002</orderNumber>
+    <Name>Lily</Name>
+    <goodsName>Orange</goodsName>
+    <Price>2.7</Price>
+    <goodsNumber>6</goodsNumber>
+    <phone>15913545442</phone>
+  </OrderDetails>
+  <OrderDetails>
+    <orderNumber>20011003660</orderNumber>
+    <Name>andy</Name>
+    <goodsName>orange</goodsName>
+    <Price>3.2</Price>
+    <goodsNumber>100</goodsNumber>
+    <phone>13584351203</phone>
+  </OrderDetails>
+</ArrayOfOrderDetails>

@@ -1,0 +1,6 @@
+E:\C#\Homework5\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+E:\C#\Homework5\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+E:\C#\Homework5\Program1\bin\Debug\Program1.exe
+E:\C#\Homework5\Program1\bin\Debug\Program1.pdb
+E:\C#\Homework5\Program1\obj\Debug\Program1.exe
+E:\C#\Homework5\Program1\obj\Debug\Program1.pdb

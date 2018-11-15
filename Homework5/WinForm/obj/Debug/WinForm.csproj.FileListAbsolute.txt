@@ -1,0 +1,16 @@
+E:\C#\Homework5\WinForm\obj\Debug\WinForm.csprojResolveAssemblyReference.cache
+E:\C#\Homework5\WinForm\obj\Debug\WinForm.Form1.resources
+E:\C#\Homework5\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+E:\C#\Homework5\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache
+E:\C#\Homework5\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+E:\C#\Homework5\WinForm\bin\Debug\WinForm.exe.config
+E:\C#\Homework5\WinForm\bin\Debug\WinForm.exe
+E:\C#\Homework5\WinForm\bin\Debug\WinForm.pdb
+E:\C#\Homework5\WinForm\bin\Debug\Program1.exe
+E:\C#\Homework5\WinForm\bin\Debug\Program1.pdb
+E:\C#\Homework5\WinForm\obj\Debug\WinForm.exe
+E:\C#\Homework5\WinForm\obj\Debug\WinForm.pdb
+E:\C#\Homework5\WinForm\obj\Debug\WinForm.Form2.resources
+E:\C#\Homework5\WinForm\obj\Debug\WinForm.Form3.resources
+E:\C#\Homework5\WinForm\obj\Debug\WinForm.Form4.resources
+E:\C#\Homework5\WinForm\obj\Debug\WinForm.Form5.resources
